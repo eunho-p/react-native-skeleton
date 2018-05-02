@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src/",
+    "paths": {
+      "@components/*": [
+        "src/components/*"
+      ],
+      "@constants/*": [
+        "src/constants/*"
+      ],
+      "@reducers/*": [
+        "src/reducers/*"
+      ],
+      "@infra/*": [
+        "src/infra/*"
+      ]
+    }
+  }
+}
